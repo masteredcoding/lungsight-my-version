@@ -1,0 +1,39 @@
+{
+    "id": "rep_demo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chest_Xray_PA_3-8-2010.png",
+    "report": {
+        "triage": "Urgent",
+        "overallImpression": "Abnormal findings present. Prompt clinical correlation recommended.",
+        "findings": [
+            {
+                "name": "Pneumonia",
+                "confidence": 0.81,
+                "localization": [
+                    {
+                        "x": 32,
+                        "y": 48,
+                        "w": 20,
+                        "h": 18
+                    }
+                ]
+            },
+            {
+                "name": "Pleural Effusion",
+                "confidence": 0.63,
+                "localization": [
+                    {
+                        "x": 25,
+                        "y": 60,
+                        "w": 30,
+                        "h": 20
+                    }
+                ]
+            },
+            {
+                "name": "Pneumothorax",
+                "confidence": 0.22,
+                "localization": []
+            }
+        ]
+    }
+}

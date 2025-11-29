@@ -1,2 +1,2 @@
-# lungsight-my-version
+# lungsight hackathon winner
 Lungsight hackathon winner
